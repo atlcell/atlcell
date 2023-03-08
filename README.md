@@ -12,7 +12,6 @@ Hi, I am a skilled [***freelancer***](https://fiverr.com/abdulrahman1s) professi
 
 
 -->
-
 <details>
 <summary>📈 <b>Statistics</b></summary>
 
@@ -29,7 +28,7 @@ Hi, I am a skilled [***freelancer***](https://fiverr.com/abdulrahman1s) professi
 <details>
 <summary>👀 <b>Recent articles</b></summary>
 
-[![articles](assets/articles.svg)](https://dev.to/abdulrahman1s)
+<!-- [![articles](assets/articles.svg)](https://dev.to/abdulrahman1s) -->
 </details>
 
 
