@@ -1,4 +1,4 @@
-<img align="left" src="https://marcells.website/favicon.ico?hash=old">
+<img align="left" src="https://avatars.githubusercontent.com/u/1452704?v=4">
 
 <!--
 ### Hey - Salam Alaikum!
